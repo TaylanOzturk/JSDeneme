@@ -32,4 +32,4 @@ function main() {
     console.log(result)
 }
 main()
-//deneme
+//denemes
